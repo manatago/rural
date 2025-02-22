@@ -1,0 +1,5 @@
+PassengerEnabled on
+PassengerAppRoot /home/dnxyzjsh/public_html/rural.situation-magic.com
+PassengerBaseURI /
+ErrorDocument 404 /404.html
+ErrorDocument 403 /403.html 
